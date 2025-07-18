@@ -1,0 +1,1 @@
+/Users/kvmvkxnt/hobby/rust-roadmap/syntax-and-semantics/variables-contants-data-types/constants/target/debug/constants: /Users/kvmvkxnt/hobby/rust-roadmap/syntax-and-semantics/variables-contants-data-types/constants/src/main.rs
